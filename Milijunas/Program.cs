@@ -72,7 +72,7 @@ namespace Milijunas
             }
         }
         static int tocniOdgovori = 0;
-        static bool tocno = true, odustaje = false, unesenoIme = false, unesenoPrezime = false;
+        static bool tocno = true, odustaje = false;
         static List<Pitanje> listaPitanja = new List<Pitanje>();
         static List<Rezultat> rezultati = new List<Rezultat>();
 
@@ -110,17 +110,7 @@ namespace Milijunas
                             LogajTrenutnuAkciju("Korisnik je odabrao opciju Nova igra.");
                             prvoImeIgraca = UnosTeProvjeraDaUnosNijePrazan("imena");
                             LogajTrenutnuAkciju("Korisnik je uspjesno unjeo svoje prvo ime.");
-                            if (unesenoIme == true || unesenoPrezime == true)
-                            {
-                                Console.Write("Unesi svoje {0} : ", "prezime");
-                                Console.ReadLine();
-                                prezimeIgraca = "-";
-                            }
-                            else 
-                            {
-                                prezimeIgraca = UnosTeProvjeraDaUnosNijePrazan("prezimena");
-                                LogajTrenutnuAkciju("Korisnik je uspjesno unjeo svoje prezime.");
-                            }
+                            prezimeIgraca = UnosTeProvjeraDaUnosNijePrazan("prezimena");
                             Console.Clear();
                             DohvatiPitanja();
                             IspisPitanja();
@@ -734,14 +724,6 @@ namespace Milijunas
                 if (sadrzajUnosa == "")
                 {
                     IspisiError(polje, 3);
-                }
-                if (polje == "imena")
-                {
-                    unesenoIme = true;
-                }
-                if (polje == "prezimena")
-                {
-                    unesenoIme = true;
                 }
             }
             return sadrzajUnosa;
