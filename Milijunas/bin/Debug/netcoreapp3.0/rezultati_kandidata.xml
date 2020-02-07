@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <rezultat prvoImeIgraca="Mario" prezimeIgraca="Somodi" datumIgranja="12/7/2019" osvojeniIznos="32000" />
+  <rezultat prvoImeIgraca="Pero" prezimeIgraca="Kolic" datumIgranja="12/7/2019" osvojeniIznos="32000" />
+  <rezultat prvoImeIgraca="Duro" prezimeIgraca="Derin" datumIgranja="12/7/2019" osvojeniIznos="1000" />
+  <rezultat prvoImeIgraca="Antonio" prezimeIgraca="Hrgovic" datumIgranja="12/11/2019" osvojeniIznos="0" />
+  <rezultat prvoImeIgraca="Roko" prezimeIgraca="Popic" datumIgranja="12/11/2019" osvojeniIznos="1000" />
+  <rezultat prvoImeIgraca="Dominik" prezimeIgraca="Kaol" datumIgranja="12/11/2019" osvojeniIznos="1000000" />
+  <rezultat prvoImeIgraca="Saffa" prezimeIgraca="Morris" datumIgranja="12/11/2019" osvojeniIznos="1000" />
+  <rezultat prvoImeIgraca="Amelia" prezimeIgraca="Curran" datumIgranja="12/11/2019" osvojeniIznos="32000" />
+  <rezultat prvoImeIgraca="Rian" prezimeIgraca="Mcphee" datumIgranja="12/14/2019" osvojeniIznos="0" />
+  <rezultat prvoImeIgraca="Marcel" prezimeIgraca="Robin" datumIgranja="12/19/2019" osvojeniIznos="1000" />
+  <rezultat prvoImeIgraca="Domagoj" prezimeIgraca="Colley" datumIgranja="12/19/2019" osvojeniIznos="1000" />
+  <rezultat prvoImeIgraca="Stanko" prezimeIgraca="Wills" datumIgranja="12/19/2019" osvojeniIznos="0" />
+  <rezultat prvoImeIgraca="Ivan" prezimeIgraca="Andersen" datumIgranja="12/19/2019" osvojeniIznos="1000" />
+  <rezultat prvoImeIgraca="Antonia" prezimeIgraca="Jovanov" datumIgranja="1/8/2020" osvojeniIznos="0" />
+  <rezultat prvoImeIgraca="Perica" prezimeIgraca="Herrera" datumIgranja="1/11/2020" osvojeniIznos="1000" />
+  <rezultat prvoImeIgraca="Julija" prezimeIgraca="Pugh" datumIgranja="1/14/2020" osvojeniIznos="0" />
+  <rezultat prvoImeIgraca="Leo" prezimeIgraca="Noble" datumIgranja="1/15/2020" osvojeniIznos="0" />
+  <rezultat prvoImeIgraca="Maki" prezimeIgraca="-" datumIgranja="3/02/2020" osvojeniIznos="32000" />
+</data>

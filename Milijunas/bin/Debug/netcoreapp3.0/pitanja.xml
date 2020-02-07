@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<data>
+  <pitanje id = "1" tezina = "1" upit = "Koji od navedenih nije otok?" odgA ="Brač" odgB ="Istra" odgC ="Korčula" odgD ="Rab" tocanOdg ="Istra"/>
+  <pitanje id = "2" tezina = "1" upit = "Kako se slikovito zove zrakoplov?" odgA ="čelična ptica" odgB ="zlatna ptica" odgC ="bakrena ptica" odgD ="olovna ptica" tocanOdg ="čelična ptica"/>
+  <pitanje id = "3" tezina = "1" upit = "Hvatač hvata, bacač baca, udarač udara.Koji je to sport?" odgA ="odbojka" odgB ="bejzbol" odgC ="hokej" odgD ="nogomet" tocanOdg ="bejzbol"/>
+  <pitanje id = "4" tezina = "1" upit = "Kojoj vrsti riječi pripada riječ kutomjer?" odgA ="glagol" odgB ="pridjev" odgC ="imenica" odgD ="prijedlog" tocanOdg ="imenica"/>
+  <pitanje id = "5" tezina = "2" upit = "Kako se zove žabac koji predvodi Muppete?" odgA ="Ralf" odgB ="Gonzo" odgC ="Kermit" odgD ="Waldorf" tocanOdg ="Kermit"/>
+  <pitanje id = "6" tezina = "2" upit = '"Zdenac života" Ivana Meštrovića nalazi se u Zagrebu ispred:' odgA ="burze" odgB ="kazališta" odgC ="vijećnice" odgD ="sabora" tocanOdg ="kazališta"/>
+  <pitanje id = "7" tezina = "3" upit = "Latice cvijeta čine vjenčić, a lapovi cvijeta:" odgA ="čokot" odgB ="lisku" odgC ="grozd" odgD ="čašku" tocanOdg ="čašku"/>
+  <pitanje id = "8" tezina = "3" upit = 'Tko se natječe u klasi "optimist"?' odgA ="jedriličari" odgB ="sanjkaši" odgC ="motociklisti" odgD ="biciklisti" tocanOdg ="jedriličari"/>
+  <pitanje id = "9" tezina = "4" upit = "Renesansni ljetnikovac Tvrdalj nalazi se u kojem gradu:" odgA ="Starom Gradu" odgB ="Starigradu" odgC ="Novigradu" odgD ="Biogradu" tocanOdg ="Starom Gradu"/>
+  <pitanje id = "10" tezina = "4" upit = "Koliko bajtova ima 1 kilobajt?" odgA ="1000" odgB ="1104" odgC ="1024" odgD ="1011" tocanOdg ="1024"/>
+  <pitanje id = "11" tezina = "5" upit = "Koja od navedenih životinja ne spada u skupinu morskih pasa?" odgA ="bijela psina" odgB ="mlat" odgC ="orka" odgD ="modrulj" tocanOdg ="orka"/>
+  <pitanje id = "12" tezina = "5" upit = "Na svoje prvo putovanje Kolumbo kreće:" odgA ="1492." odgB ="1496." odgC ="1497." odgD ="1500." tocanOdg ="1492."/>
+  <pitanje id = "13" tezina = "6" upit = 'Češki su evangelici 1618. "upriličili" defenestraciju, odnosno bacanje kraljevskoga namjesnika:' odgA ="pod vlak" odgB ="kroz prozor" odgC ="u živo blato" odgD ="s mosta" tocanOdg ="kroz prozor"/>
+  <pitanje id = "14" tezina = "6" upit = 'Kako se još na hrvatskom kaže "slijepo crijevo"?' odgA ="crvuljak" odgB ="sljepić" odgC ="visuljak" odgD ="crijevuljak" tocanOdg ="crvuljak"/>
+  <pitanje id = "15" tezina = "7" upit = "U kojoj državi žive Krašovani?" odgA ="Mađarskoj" odgB ="Poljskoj" odgC ="Ukrajini" odgD ="Rumunjskoj" tocanOdg ="Rumunjskoj"/>
+  <pitanje id = "16" tezina = "1" upit = "Tko se izvrgava opasnosti za drugoga, taj vadi kestene iz..." odgA ="vatre" odgB ="šume" odgC ="vode" odgD ="nabujale rijeke" tocanOdg ="vatre"/>
+  <pitanje id = "17" tezina = "1" upit = "Nakon odsviranog koncerta gotovo uvijek slijedi..." odgA ="cis" odgB ="dis" odgC ="fis" odgD ="bis" tocanOdg ="bis"/>
+  <pitanje id = "18" tezina = "1" upit = "Koji biser Jadrana nije nacionalni park?" odgA ="Brijuni" odgB ="Biševo" odgC ="Kornati" odgD ="Mljet" tocanOdg ="Biševo"/>
+  <pitanje id = "19" tezina = "1" upit = "Kojoj vrsti riječi pripada riječ oblačan?" odgA ="pridjevima" odgB ="prijedlozima" odgC ="prilozima" odgD ="imenicama" tocanOdg ="pridjevima"/>
+  <pitanje id = "20" tezina = "2" upit = "Koji je auto 1991. u Osjeku stradao pod gusjenicama tenka?" odgA ="peglica" odgB ="fićo" odgC ="buba" odgD ="spaček" tocanOdg ="fićo"/>
+  <pitanje id = "21" tezina = "2" upit = 'Drugi dio kog filmskog serijala je poznat pod nazivom "Drumski ratnik"?' odgA ="Pobješnjeli Max" odgB ="Smrtonosno oružje" odgC ="Umri muški" odgD ="Terminator" tocanOdg ="Pobješnjeli Max"/>
+  <pitanje id = "22" tezina = "3" upit = "Novac na bankomatu nećete moći podignuti ako ste zaboravili..." odgA ="pen" odgB ="puk" odgC ="pin" odgD ="tan" tocanOdg ="pin"/>
+  <pitanje id = "23" tezina = "3" upit = "Koji bi vrh neodoljivo privukao Harryja Pottera?" odgA ="Japetić" odgB ="Sljeme" odgC ="Klek" odgD ="Sveta gera" tocanOdg ="Klek"/>
+  <pitanje id = "24" tezina = "4" upit = "Polazak Narita, odredište Keflavik-čime putujete?" odgA ="raketom" odgB ="željeznicom" odgC ="avionom" odgD ="žičarom" tocanOdg ="avionom"/>
+  <pitanje id = "25" tezina = "4" upit = "Koji je Imoćanin rođen u Splitu proslavio Pulu?" odgA ="Marijan Beneš" odgB ="Mate Parlov" odgC ="Antun Josipović" odgD ="Željko Mavrović" tocanOdg ="Mate Parlov"/>
+  <pitanje id = "26" tezina = "5" upit = "Askja, Hekla i Katla imena su islandskih..." odgA ="božica" odgB ="gradova" odgC ="vulkana" odgD ="zračnih luka" tocanOdg ="vulkana"/>
+  <pitanje id = "27" tezina = "5" upit = "Koji od kemijskih elemenata nije nazvan po nobelovcu?" odgA ="ajnštajnij" odgB ="fermij" odgC ="kirij" odgD ="nobelij" tocanOdg ="nobelij"/>
+  <pitanje id = "28" tezina = "6" upit = "Henry Miller je za opscenost napadan zbog svojih:" odgA ="polarnica" odgB ="obratnica" odgC ="ekvatora" odgD ="meridijana" tocanOdg ="obratnica"/>
+  <pitanje id = "29" tezina = "6" upit = "Koje je kazalište najstarije u hrvatskoj?" odgA ="riječko" odgB ="splitsko" odgC ="hvarsko" odgD ="dubrovačko" tocanOdg ="hvarsko"/>
+  <pitanje id = "30" tezina = "7" upit = "Kako se zove album Dina Dvornika iz 1993. godine?" odgA ="Matematika" odgB ="Zemljopis" odgC ="Priroda i društvo" odgD ="Tjelesni odgoj" tocanOdg ="Priroda i društvo"/>
+</data>

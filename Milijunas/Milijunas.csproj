@@ -1,0 +1,39 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="netcoreapp3.0\Milijunas.deps.json" />
+    <None Remove="netcoreapp3.0\Milijunas.dll" />
+    <None Remove="netcoreapp3.0\Milijunas.exe" />
+    <None Remove="netcoreapp3.0\Milijunas.pdb" />
+    <None Remove="netcoreapp3.0\Milijunas.runtimeconfig.dev.json" />
+    <None Remove="netcoreapp3.0\Milijunas.runtimeconfig.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="bin\Debug\netcoreapp3.0\pitanja.xml" />
+    <Content Include="bin\Debug\netcoreapp3.0\rezultati_kandidata.xml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\Debug\netcoreapp3.0\logs.log" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="ConsoleTables" Version="2.4.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="Resources\pitanja.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Resources\rezultati_kandidata.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+</Project>
