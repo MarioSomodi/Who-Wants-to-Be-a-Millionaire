@@ -1,5 +1,11 @@
 # Who Wants to Be a Millionaire
-## Description of the project
+## Technologies used
+* .NET Core
+* Console app
+* JavaScript Object Notation (JSON)
+* C#
+* Extensible Markup Language (XML)
+## Project description
 Recreation of Who Wants to Be a Millionaire Game in a C# console app.
 ## Things I learned
 * Structures.
